@@ -13,28 +13,37 @@
 
 ## スキル
 
-<details>
+<details open>
 <summary><strong>フロントエンド</strong></summary>
 
-- HTML
-- JavaScript
-- TypeScript
-- Vue.js
-- Nuxt.js
+|言語|経験年数|レベル|
+|---|-----|-----|
+|HTML|3年〜|実務で問題なく使える|
+|CSS|1年〜|少し使える|
+|JavaScript|3年〜|実務で問題なく使える|
+|TypeScript|1年〜|ある程度使える|
+|Vue.js|1年〜|実務で問題なく使える|
+|Nuxt.js|1年〜|実務で問題なく使える|
+|React|1年〜|ある程度使える|
+|Gatsby.js|1年〜|ある程度使える|
+|GraphQL|1年〜|ある程度使える|
 
 </details>
 
-<details>
+<details open>
 <summary><strong>バックエンド</strong></summary>
 
-- PHP
-- Laravel
-- Java
-- Spring Boot
-- Python
-- Ruby
-- Ruby on Rails
-- MySQL
+|言語|経験年数|レベル|
+|---|-----|-----|
+|PHP|3年〜|実務で問題なく使える|
+|Laravel|3年〜|実務で問題なく使える|
+|Java|1年〜|少し使える|
+|SpringBoot|1年〜|少し使える|
+|Python|1年〜|ある程度使える|
+|Ruby|1年〜|ある程度使える|
+|RubyonRails|1年〜|ある程度使える|
+|MySQL|3年〜|実務で問題なく使える|
+|ElasticSearch|1年〜|ある程度使える|
 
 </details>
 
@@ -42,6 +51,16 @@
 <summary><strong>インフラ</strong></summary>
 
 - AWS
+- Firebase
+- Gatsby Cloud
+- Ansible
+- Docker
+
+</details>
+
+<details>
+<summary><strong>AWS</strong></summary>
+
 - EC2
 - ECS
 - Fargate
@@ -57,10 +76,6 @@
 - Route53
 - ELB
 - IAM
-- Firebase
-- Gatsby Cloud
-- Ansible
-- Docker
 
 </details>
 
