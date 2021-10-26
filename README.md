@@ -8,6 +8,7 @@
 |---|-----|
 |Blog|[hagi-tech](https://hagi-tech.com/)|
 |Twitter|[@ohagi_1182](https://twitter.com/ohagi_1182)|
+|Instagram|[ohagi_1182](https://www.instagram.com/ohagi_1182/)|
 |Qiita|[ohagi_1182](https://qiita.com/ohagi_1182)|
 |GitHub|[kouta1612](https://github.com/kouta1612)|
 
