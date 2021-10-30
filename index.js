@@ -1,5 +1,5 @@
 import { mdToPdf } from "md-to-pdf";
 
-mdToPdf({ path: 'README.md' }, { dest: '職務経歴書.pdf' })
+mdToPdf({ path: 'README.md' }, { dest: 'README.pdf' })
   .then(() => console.log('mtp done'))
   .catch(console.error);
