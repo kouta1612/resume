@@ -128,7 +128,4 @@ dist
 # PDF
 *.pdf
 
-# package
-package-*.json
-
 # End of https://www.toptal.com/developers/gitignore/api/node
