@@ -11,7 +11,7 @@ body_class: markdown-body
 - [スキル](#スキル) 
 - [職務経歴](#職務経歴) 
 - [自己PR](#自己pr) 
-- [やったことはないが興味があるもの](#やったことはないが興味があるもの)
+- [興味があるもの](#興味があるもの)
 
 ## 基本情報
 
@@ -27,87 +27,67 @@ body_class: markdown-body
 
 ## スキル
 
-<details open>
-<summary><strong>フロントエンド</strong></summary>
+★☆☆☆☆: 個人学習で触ったことがある程度  
+★★☆☆☆: 他人のサポートを受けながら開発することが可能  
+★★★☆☆: 有識者と相談しながらor調べながら開発することが可能  
+★★★★☆: 設計やパフォーマンスを考えて作業することが可能  
+★★★★★: 言語仕様や設計等を熟知しておりリードとして活躍することが可能
 
-|言語|経験年数|レベル|
-|---|-----|-----|
-|HTML|3年〜|実務で問題なく使える|
-|CSS|1年〜|少し使える|
-|JavaScript|3年〜|実務で問題なく使える|
-|TypeScript|1年〜|ある程度使える|
-|Vue.js|1年〜|実務で問題なく使える|
-|Nuxt.js|1年〜|実務で問題なく使える|
-|React|1年〜|ある程度使える|
-|Gatsby.js|1年〜|ある程度使える|
-|GraphQL|1年〜|ある程度使える|
+### 言語
 
-</details>
+|言語|経験年数|レベル|内容
+|---|-----|-----|-----|
+|JavaScript|5年〜|★★★★☆|前職,WeXpats,freelance-hub
+|PHP|3年〜|★★★★☆|WeXpats,freelance-hub
+|HTML/CSS|5年〜|★★★☆☆|前職,WeXpats,freelance-hub
+|Python|1年〜|★★★☆☆|WeXpats,freelance-hub
+|Java|1年〜|★★★☆☆|前職,プロコン
+|Ruby|1年〜|★★★☆☆|個人開発
 
-<details open>
-<summary><strong>バックエンド</strong></summary>
+### フレームワーク
 
-|言語|経験年数|レベル|
-|---|-----|-----|
-|PHP|3年〜|実務で問題なく使える|
-|Laravel|3年〜|実務で問題なく使える|
-|Java|1年〜|少し使える|
-|SpringBoot|1年〜|少し使える|
-|Python|1年〜|ある程度使える|
-|Ruby|1年〜|ある程度使える|
-|RubyonRails|1年〜|ある程度使える|
-|MySQL|3年〜|実務で問題なく使える|
-|ElasticSearch|1年〜|ある程度使える|
+|言語|経験年数|レベル|内容
+|---|-----|-----|-----|
+|Laravel|3年〜|★★★★☆|WeXpats,freelance-hub
+|TypeScript|1年〜|★★★☆☆|freelance-hub
+|Vue.js|1年〜|★★★☆☆|freelance-hub
+|Nuxt.js|1年〜|★★★☆☆|freelance-hub
+|React|1年〜|★★★☆☆|個人開発
+|SpringBoot|1年〜|★★☆☆☆|前職
+|Rails|1年〜|★★★☆☆|個人開発
+|Gatsby.js|1年〜|★★★☆☆|個人開発
 
-</details>
+### データベース
+|言語|経験年数|レベル|内容
+|---|-----|-----|-----|
+|MySQL|5年〜|★★★★☆|WeXpats,freelance-hub
+|Aurora MySQL|1年〜|★★★☆☆|freelance-hub
+|S3|3年〜|★★★★☆|WeXpats,freelance-hub
+|Sqlite|3年〜|★★★☆☆|WeXpats,個人開発
+|ElasticSearch|3年〜|★★★☆☆|WeXpats,freelance-hub
+|Redis|1年〜|★★☆☆☆|freelance-hub
+|MongoDB|1年〜|★★☆☆☆|個人開発
+|Firestore|1年〜|★★☆☆☆|個人開発
+|PostgresQL|1年〜|★★☆☆☆|個人開発
 
-<details open>
-<summary><strong>インフラ</strong></summary>
+### SaaS/ツール
 
-- AWS
-- Firebase
-- Gatsby Cloud
-- Ansible
-- Docker
-
-</details>
-
-<details open>
-<summary><strong>AWS</strong></summary>
-
-- EC2
-- ECS
-- Fargate
-- Lambda
-- Cloud Watch
-- Cloud Formation
-- CDK
-- RDS
-- Aurora
-- S3
-- Secret Manager
-- Open Search
-- Route53
-- ELB
-- IAM
-
-</details>
-
-<details open>
-<summary><strong>その他ツール</strong></summary>
-
-- Asana
-- Git
-- GitHub
-- Slack
-- Discord
-- Google Spread Sheet
-- Google Document
-- Google Slide
-- Google Meet
-- Google Analytics
-
-</details>
+|言語|経験年数|レベル|内容
+|---|-----|-----|-----|
+|AWS|3年〜|★★★★☆|WeXpats,freelance-hub
+|GitHub|3年〜|★★★★☆|WeXpats,freelance-hub
+|Asana|1年〜|★★★★☆|freelance-hub
+|Firebase|1年〜|★★★☆☆|個人開発
+|CDK|1年〜|★★★☆☆|freelance-hub
+|GCP|3年〜|★★☆☆☆|WeXpats,freelance-hub
+|Firebase|1年〜|★★★☆☆|個人開発
+|GatsbyCloud|1年〜|★★★☆☆|個人開発
+|Slack|1年〜|★★★☆☆|WeXpats,freelance-hub
+|Discord|1年〜|★★☆☆☆|WeXpats,freelance-hub
+|Ansible|1年〜|★★☆☆☆|WeXpats
+|SendGrid|1年〜|★★☆☆☆|freelance-hub
+|Docker|3年〜|★★★★☆|WeXpats,freelance-hub
+|GraphQL|1年〜|★★★☆☆|個人開発
 
 ## 職務経歴
 
@@ -139,10 +119,13 @@ body_class: markdown-body
 - JavaやPHPを使って外勤エンジニアとして開発
 
 ## 自己PR
-バックエンドが特に得意ですが、フロントエンドとインフラのタスクもこなすスキルがあります。
+フロント・バックエンド・インフラ問わず技術的な関心が高いので  
+プライベートの時間を使ってより知見を深めたい技術を勉強したり  
+最新の技術について情報収集することを目的にカンファレンスに参加したり  
+SNSで最新情報を発信するアカウントをフォローして情報の感度を高める工夫をしています。  
+また、全く経験したことがないことに関しても自分の経験になると考えて積極的に取り組むことができます。
 
-また、経験がない技術に対しても集中して勉強し、短期間で成長することができます。
-
-## やったことはないが興味があるもの
-- マイクロサービスにおけるgRPC
-- パフォーマンスチューニング
+## 興味があるもの
+- Go
+- DDD
+- マイクロサービス
